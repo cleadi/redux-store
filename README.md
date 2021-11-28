@@ -1,20 +1,17 @@
-# redux-store
-Boot Camp HW # 18
-
-<h1 align="center">Book Search Engine</h1>
+<h1 align="center">Redux Store</h1>
 
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/cleadi/progressive-budget.svg)](https://github.com/cleadi/book-search-engine/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/cleadi/progressive-budget.svg)](https://github.com/cleadi/book-search-engine/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/cleadi/redux-store.svg)](https://github.com/cleadi/redux-store/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/cleadi/redux-store.svg)](https://github.com/cleadi/redux-store/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
 ---
 
-<h4 style="font-weight: bold;" align="center">Boot Camp HW # 17: Book Search Engine</h4>
+<h4 style="font-weight: bold;" align="center">Boot Camp HW # 18: Redux Store</h4>
 
 ## Table of Contents
 
@@ -30,9 +27,7 @@ This is a simple book search engine application that uses the Google Books API. 
 
 ## <a href="#readme-badge"><img id="usage" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/usage.png?raw=true" style="height: 40px"></a>
 
-1. Navigate to the Heroku hosted [Book Search Engine](https://cleadi-book-search-engine.herokuapp.com/) application.
-2. Search for a book by typing in a search term; i.e., "Kafka" and the books that match will load and show book cover art and book descriptions.
-3. Signed in users will be able to save books to a list too.
+1. Navigate to the Heroku hosted [Redux Store](https://cleadi-redux-store.herokuapp.com/) application.
 
 ## <a href="#readme-badge"><img id="built_using" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/built-using.png?raw=true" style="height: 40px"></a>
 
@@ -48,4 +43,4 @@ This is a simple book search engine application that uses the Google Books API. 
 
 ## <a href="#readme-badge"><img id="screenshots" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/screenshots.png?raw=true" style="height: 40px"></a>
 
-![book-search-engine](client/public/assets/images/book-search-engine.jpg)
+![redux-store](client/public/images/redux-store.jpg)
