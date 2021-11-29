@@ -23,7 +23,6 @@ const httpLink = createHttpLink({
   uri: "/graphql",
 });
 
-// This is for setting up authentication with GraphQL
 const authLink = setContext((_, { headers }) => {
   const token = localStorage.getItem("id_token");
   return {
