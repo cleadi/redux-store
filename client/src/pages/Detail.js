@@ -67,7 +67,6 @@ function Detail() {
         type: ADD_TO_CART,
         product: { ...currentProduct, purchaseQuantity: 1 },
       });
-
       idbPromise("cart", "put", { ...currentProduct, purchaseQuantity: 1 });
     }
   };
